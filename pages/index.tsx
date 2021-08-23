@@ -12,7 +12,7 @@ const Home: NextPage = () => {
   return (
       <>
         <Head>
-            <title>Title | Home</title>
+            <title>Theme 1 | Moonex</title>
             <meta name="description" content="descriptio" />
         </Head>
 
