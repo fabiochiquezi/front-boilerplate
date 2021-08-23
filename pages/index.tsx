@@ -1,4 +1,5 @@
 import React from 'react'
+import Head from 'next/head'
 import type { NextPage } from 'next'
 import styled from 'styled-components'
 
@@ -9,9 +10,16 @@ const H1 = styled.h1`
 
 const Home: NextPage = () => {
   return (
-    <div className="container">
-        <H1>Hello World!!!</H1>
-    </div>
+      <>
+        <Head>
+            <title>Title | Home</title>
+            <meta name="description" content="descriptio" />
+        </Head>
+
+        <div className="container">
+            <H1>Hello World!!!</H1>
+        </div>
+    </>
   )
 }
 
