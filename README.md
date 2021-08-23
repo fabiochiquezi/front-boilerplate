@@ -1,9 +1,24 @@
-To Do:
--   add reset and global css
--   apply css in project
--   configure styled components
--   add fonts
--   add images
--   add svg
--   structure folders
--   look for anothers packages to help the project
+# Front-end Boilerplate
+&nbsp;
+
+## Start project: steps
+1. clone repo
+2. install project (yarn install)
+3. run project: (yarn dev)
+
+&nbsp;
+<!--  -->
+
+## Goal
+Initial boilerplate to nextJs project
+
+&nbsp;
+<!--  -->
+
+## Features
+#### Components to help develop:
+- typescript
+- eslint
+- babel
+- nextJs
+- yarn
