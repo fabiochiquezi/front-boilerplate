@@ -14,7 +14,9 @@
         "yarn.lock": true,
         ".editorconfig": true,
         ".babelrc": true,
-        "public": true
+        "postcss.config.js": true,
+        "tailwind.config.js": true,
+        "out": true
     },
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
